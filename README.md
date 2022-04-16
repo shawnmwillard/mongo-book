@@ -1,7 +1,9 @@
 # mongo-book
+
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
-#Acceptance Criteria
+# Acceptance Criteria
+
 GIVEN a social network API
 WHEN I enter the command to invoke the application
 THEN my server is started and the Mongoose models are synced to the MongoDB database
